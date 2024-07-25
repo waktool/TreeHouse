@@ -1,0 +1,432 @@
+[2024-07-25T14:22:36Z]   --------------------------------------------------
+[2024-07-25T14:22:36Z]   Item: 1
+[2024-07-25T14:22:36Z]    RARITY DETAILS
+[2024-07-25T14:22:36Z]    * Rarity: Basic
+[2024-07-25T14:22:36Z]    * Color: 0xA5A2BB
+[2024-07-25T14:22:36Z]    * XP: 200
+[2024-07-25T14:22:36Z]    OCR DETAILS
+[2024-07-25T14:22:36Z]    * Result: Old Boot
+[2024-07-25T14:22:36Z]    ITEM DETAILS
+[2024-07-25T14:22:36Z]    * Item: Old Boot
+[2024-07-25T14:22:36Z]    * Rarity: Basic
+[2024-07-25T14:22:36Z]    * Category: Misc
+[2024-07-25T14:22:36Z]    * Id: Old Boot
+[2024-07-25T14:22:36Z]    * Tier: NA
+[2024-07-25T14:22:36Z]    * Regex: i)(old|boo|oot)
+[2024-07-25T14:22:36Z]    * Priority: 71
+[2024-07-25T14:22:36Z]    API DETAILS
+[2024-07-25T14:22:36Z]    * Value: 2906
+[2024-07-25T14:22:36Z]   --------------------------------------------------
+[2024-07-25T14:22:36Z]   Item: 2
+[2024-07-25T14:22:36Z]    RARITY DETAILS
+[2024-07-25T14:22:36Z]    * Rarity: Basic
+[2024-07-25T14:22:36Z]    * Color: 0xA5A2BB
+[2024-07-25T14:22:36Z]    * XP: 200
+[2024-07-25T14:22:36Z]    OCR DETAILS
+[2024-07-25T14:22:36Z]    * Result: Old Boot
+[2024-07-25T14:22:36Z]    ITEM DETAILS
+[2024-07-25T14:22:36Z]    * Item: Old Boot
+[2024-07-25T14:22:36Z]    * Rarity: Basic
+[2024-07-25T14:22:36Z]    * Category: Misc
+[2024-07-25T14:22:36Z]    * Id: Old Boot
+[2024-07-25T14:22:36Z]    * Tier: NA
+[2024-07-25T14:22:36Z]    * Regex: i)(old|boo|oot)
+[2024-07-25T14:22:36Z]    * Priority: 71
+[2024-07-25T14:22:36Z]    API DETAILS
+[2024-07-25T14:22:36Z]    * Value: 2906
+[2024-07-25T14:22:37Z]   --------------------------------------------------
+[2024-07-25T14:22:37Z]   Item: 3
+[2024-07-25T14:22:37Z]    RARITY DETAILS
+[2024-07-25T14:22:37Z]    * Rarity: Rare
+[2024-07-25T14:22:37Z]    * Color: 0x71FF3E
+[2024-07-25T14:22:37Z]    * XP: 495
+[2024-07-25T14:22:37Z]    OCR DETAILS
+[2024-07-25T14:22:37Z]    * Result: Rainbow Swirl
+[2024-07-25T14:22:37Z]    ITEM DETAILS
+[2024-07-25T14:22:37Z]    * Item: Rainbow Swirl
+[2024-07-25T14:22:37Z]    * Rarity: Rare
+[2024-07-25T14:22:37Z]    * Category: Misc
+[2024-07-25T14:22:37Z]    * Id: Rainbow Swirl
+[2024-07-25T14:22:37Z]    * Tier: NA
+[2024-07-25T14:22:37Z]    * Regex: i)(?=.*ra)(?=.*sw).*
+[2024-07-25T14:22:37Z]    * Priority: 70
+[2024-07-25T14:22:37Z]    API DETAILS
+[2024-07-25T14:22:37Z]    * Value: 2082
+[2024-07-25T14:24:28Z]   --------------------------------------------------
+[2024-07-25T14:24:28Z]   Item: 1
+[2024-07-25T14:24:28Z]    RARITY DETAILS
+[2024-07-25T14:24:28Z]    * Rarity: Rare
+[2024-07-25T14:24:28Z]    * Color: 0x71FF3E
+[2024-07-25T14:24:28Z]    * XP: 495
+[2024-07-25T14:24:28Z]    OCR DETAILS
+[2024-07-25T14:24:28Z]    * Result: Rainbow Swirl
+[2024-07-25T14:24:28Z]    ITEM DETAILS
+[2024-07-25T14:24:28Z]    * Item: Rainbow Swirl
+[2024-07-25T14:24:28Z]    * Rarity: Rare
+[2024-07-25T14:24:28Z]    * Category: Misc
+[2024-07-25T14:24:28Z]    * Id: Rainbow Swirl
+[2024-07-25T14:24:28Z]    * Tier: NA
+[2024-07-25T14:24:28Z]    * Regex: i)(?=.*ra)(?=.*sw).*
+[2024-07-25T14:24:28Z]    * Priority: 70
+[2024-07-25T14:24:28Z]    API DETAILS
+[2024-07-25T14:24:28Z]    * Value: 2082
+[2024-07-25T14:24:28Z]   --------------------------------------------------
+[2024-07-25T14:24:28Z]   Item: 2
+[2024-07-25T14:24:28Z]    RARITY DETAILS
+[2024-07-25T14:24:28Z]    * Rarity: Basic
+[2024-07-25T14:24:28Z]    * Color: 0xA5A2BB
+[2024-07-25T14:24:28Z]    * XP: 200
+[2024-07-25T14:24:28Z]    OCR DETAILS
+[2024-07-25T14:24:28Z]    * Result: Old Boot
+[2024-07-25T14:24:28Z]    ITEM DETAILS
+[2024-07-25T14:24:28Z]    * Item: Old Boot
+[2024-07-25T14:24:28Z]    * Rarity: Basic
+[2024-07-25T14:24:28Z]    * Category: Misc
+[2024-07-25T14:24:28Z]    * Id: Old Boot
+[2024-07-25T14:24:28Z]    * Tier: NA
+[2024-07-25T14:24:28Z]    * Regex: i)(old|boo|oot)
+[2024-07-25T14:24:28Z]    * Priority: 71
+[2024-07-25T14:24:28Z]    API DETAILS
+[2024-07-25T14:24:28Z]    * Value: 2906
+[2024-07-25T14:24:29Z]   --------------------------------------------------
+[2024-07-25T14:24:29Z]   Item: 3
+[2024-07-25T14:24:29Z]    RARITY DETAILS
+[2024-07-25T14:24:29Z]    * Rarity: Basic
+[2024-07-25T14:24:29Z]    * Color: 0xA5A2BB
+[2024-07-25T14:24:29Z]    * XP: 200
+[2024-07-25T14:24:29Z]    OCR DETAILS
+[2024-07-25T14:24:29Z]    * Result: Old Boot
+[2024-07-25T14:24:29Z]    ITEM DETAILS
+[2024-07-25T14:24:29Z]    * Item: Old Boot
+[2024-07-25T14:24:29Z]    * Rarity: Basic
+[2024-07-25T14:24:29Z]    * Category: Misc
+[2024-07-25T14:24:29Z]    * Id: Old Boot
+[2024-07-25T14:24:29Z]    * Tier: NA
+[2024-07-25T14:24:29Z]    * Regex: i)(old|boo|oot)
+[2024-07-25T14:24:29Z]    * Priority: 71
+[2024-07-25T14:24:29Z]    API DETAILS
+[2024-07-25T14:24:29Z]    * Value: 2906
+[2024-07-25T14:24:44Z]   --------------------------------------------------
+[2024-07-25T14:24:44Z]   Item: 1
+[2024-07-25T14:24:44Z]    RARITY DETAILS
+[2024-07-25T14:24:44Z]    * Rarity: Divine
+[2024-07-25T14:24:44Z]    * Color: 0xFFE542
+[2024-07-25T14:24:44Z]    * XP: 4950
+[2024-07-25T14:24:44Z]    OCR DETAILS
+[2024-07-25T14:24:44Z]    * Result: Coins Potion VII
+[2024-07-25T14:24:44Z]    ITEM DETAILS
+[2024-07-25T14:24:44Z]    * Item: Coins Potion VII
+[2024-07-25T14:24:44Z]    * Rarity: Divine
+[2024-07-25T14:24:44Z]    * Category: Potion
+[2024-07-25T14:24:44Z]    * Id: Coins
+[2024-07-25T14:24:44Z]    * Tier: 7
+[2024-07-25T14:24:44Z]    * Regex: i)(?=.*coin)(?=.*pot).*
+[2024-07-25T14:24:44Z]    * Priority: 53
+[2024-07-25T14:24:44Z]    API DETAILS
+[2024-07-25T14:24:44Z]    * Value: 1509
+[2024-07-25T14:24:45Z]   --------------------------------------------------
+[2024-07-25T14:24:45Z]   Item: 2
+[2024-07-25T14:24:45Z]    RARITY DETAILS
+[2024-07-25T14:24:45Z]    * Rarity: Basic
+[2024-07-25T14:24:45Z]    * Color: 0xA5A2BB
+[2024-07-25T14:24:45Z]    * XP: 200
+[2024-07-25T14:24:45Z]    OCR DETAILS
+[2024-07-25T14:24:45Z]    * Result: Old Boot
+[2024-07-25T14:24:45Z]    ITEM DETAILS
+[2024-07-25T14:24:45Z]    * Item: Old Boot
+[2024-07-25T14:24:45Z]    * Rarity: Basic
+[2024-07-25T14:24:45Z]    * Category: Misc
+[2024-07-25T14:24:45Z]    * Id: Old Boot
+[2024-07-25T14:24:45Z]    * Tier: NA
+[2024-07-25T14:24:45Z]    * Regex: i)(old|boo|oot)
+[2024-07-25T14:24:45Z]    * Priority: 71
+[2024-07-25T14:24:45Z]    API DETAILS
+[2024-07-25T14:24:45Z]    * Value: 2906
+[2024-07-25T14:24:46Z]   --------------------------------------------------
+[2024-07-25T14:24:46Z]   Item: 3
+[2024-07-25T14:24:46Z]    RARITY DETAILS
+[2024-07-25T14:24:46Z]    * Rarity: Divine
+[2024-07-25T14:24:46Z]    * Color: 0xFFE542
+[2024-07-25T14:24:46Z]    * XP: 4950
+[2024-07-25T14:24:46Z]    OCR DETAILS
+[2024-07-25T14:24:46Z]    * Result: Damage Potion
+[2024-07-25T14:24:46Z]    ITEM DETAILS
+[2024-07-25T14:24:46Z]    * Item: Damage Potion VII
+[2024-07-25T14:24:46Z]    * Rarity: Divine
+[2024-07-25T14:24:46Z]    * Category: Potion
+[2024-07-25T14:24:46Z]    * Id: Damage
+[2024-07-25T14:24:46Z]    * Tier: 7
+[2024-07-25T14:24:46Z]    * Regex: i)(?=.*dam)(?=.*pot).*
+[2024-07-25T14:24:46Z]    * Priority: 55
+[2024-07-25T14:24:46Z]    API DETAILS
+[2024-07-25T14:24:46Z]    * Value: 703
+[2024-07-25T14:25:01Z]   --------------------------------------------------
+[2024-07-25T14:25:01Z]   Item: 1
+[2024-07-25T14:25:01Z]    RARITY DETAILS
+[2024-07-25T14:25:01Z]    * Rarity: Superior
+[2024-07-25T14:25:01Z]    * Color: 0xC0EDED
+[2024-07-25T14:25:01Z]    * XP: 7260
+[2024-07-25T14:25:01Z]    OCR DETAILS
+[2024-07-25T14:25:01Z]    * Result: Treasure Hunter Potion VIII
+[2024-07-25T14:25:01Z]    ITEM DETAILS
+[2024-07-25T14:25:01Z]    * Item: Treasure Hunter Potion VIII
+[2024-07-25T14:25:01Z]    * Rarity: Superior
+[2024-07-25T14:25:01Z]    * Category: Potion
+[2024-07-25T14:25:01Z]    * Id: Treasure Hunter
+[2024-07-25T14:25:01Z]    * Tier: 8
+[2024-07-25T14:25:02Z]    * Regex: i)(?=.*tre)(?=.*pot).*
+[2024-07-25T14:25:02Z]    * Priority: 17
+[2024-07-25T14:25:02Z]    API DETAILS
+[2024-07-25T14:25:02Z]    * Value: 9573
+[2024-07-25T14:25:02Z]   --------------------------------------------------
+[2024-07-25T14:25:02Z]   Item: 2
+[2024-07-25T14:25:02Z]    RARITY DETAILS
+[2024-07-25T14:25:02Z]    * Rarity: Rare
+[2024-07-25T14:25:02Z]    * Color: 0x71FF3E
+[2024-07-25T14:25:02Z]    * XP: 495
+[2024-07-25T14:25:02Z]    OCR DETAILS
+[2024-07-25T14:25:02Z]    * Result: Rainbow Swirl
+[2024-07-25T14:25:02Z]    ITEM DETAILS
+[2024-07-25T14:25:02Z]    * Item: Rainbow Swirl
+[2024-07-25T14:25:02Z]    * Rarity: Rare
+[2024-07-25T14:25:02Z]    * Category: Misc
+[2024-07-25T14:25:02Z]    * Id: Rainbow Swirl
+[2024-07-25T14:25:02Z]    * Tier: NA
+[2024-07-25T14:25:02Z]    * Regex: i)(?=.*ra)(?=.*sw).*
+[2024-07-25T14:25:02Z]    * Priority: 70
+[2024-07-25T14:25:02Z]    API DETAILS
+[2024-07-25T14:25:02Z]    * Value: 2082
+[2024-07-25T14:25:03Z]   --------------------------------------------------
+[2024-07-25T14:25:03Z]   Item: 3
+[2024-07-25T14:25:03Z]    RARITY DETAILS
+[2024-07-25T14:25:03Z]    * Rarity: Legendary
+[2024-07-25T14:25:03Z]    * Color: 0xFF8B26
+[2024-07-25T14:25:03Z]    * XP: 1485
+[2024-07-25T14:25:03Z]    OCR DETAILS
+[2024-07-25T14:25:03Z]    * Result: Clystal Key
+[2024-07-25T14:25:03Z]    ITEM DETAILS
+[2024-07-25T14:25:03Z]    * Item: Crystal Key
+[2024-07-25T14:25:03Z]    * Rarity: Legendary
+[2024-07-25T14:25:03Z]    * Category: Misc
+[2024-07-25T14:25:03Z]    * Id: Crystal Key
+[2024-07-25T14:25:03Z]    * Tier: NA
+[2024-07-25T14:25:03Z]    * Regex: i)(?=.*(cr|ry|ys|st|ta|al))(?=.*(ke|ey)).*
+[2024-07-25T14:25:03Z]    * Priority: 19
+[2024-07-25T14:25:03Z]    API DETAILS
+[2024-07-25T14:25:03Z]    * Value: 8354
+[2024-07-25T14:25:19Z]   --------------------------------------------------
+[2024-07-25T14:25:19Z]   Item: 1
+[2024-07-25T14:25:19Z]    RARITY DETAILS
+[2024-07-25T14:25:19Z]    * Rarity: Rare
+[2024-07-25T14:25:19Z]    * Color: 0x71FF3E
+[2024-07-25T14:25:19Z]    * XP: 495
+[2024-07-25T14:25:19Z]    OCR DETAILS
+[2024-07-25T14:25:19Z]    * Result: Rainbow Swirl
+[2024-07-25T14:25:19Z]    ITEM DETAILS
+[2024-07-25T14:25:19Z]    * Item: Rainbow Swirl
+[2024-07-25T14:25:19Z]    * Rarity: Rare
+[2024-07-25T14:25:19Z]    * Category: Misc
+[2024-07-25T14:25:19Z]    * Id: Rainbow Swirl
+[2024-07-25T14:25:19Z]    * Tier: NA
+[2024-07-25T14:25:19Z]    * Regex: i)(?=.*ra)(?=.*sw).*
+[2024-07-25T14:25:19Z]    * Priority: 70
+[2024-07-25T14:25:19Z]    API DETAILS
+[2024-07-25T14:25:19Z]    * Value: 2082
+[2024-07-25T14:25:20Z]   --------------------------------------------------
+[2024-07-25T14:25:20Z]   Item: 2
+[2024-07-25T14:25:20Z]    RARITY DETAILS
+[2024-07-25T14:25:20Z]    * Rarity: Rare
+[2024-07-25T14:25:20Z]    * Color: 0x71FF3E
+[2024-07-25T14:25:20Z]    * XP: 495
+[2024-07-25T14:25:20Z]    OCR DETAILS
+[2024-07-25T14:25:20Z]    * Result: Rainbow Swirl
+[2024-07-25T14:25:20Z]    ITEM DETAILS
+[2024-07-25T14:25:20Z]    * Item: Rainbow Swirl
+[2024-07-25T14:25:20Z]    * Rarity: Rare
+[2024-07-25T14:25:20Z]    * Category: Misc
+[2024-07-25T14:25:20Z]    * Id: Rainbow Swirl
+[2024-07-25T14:25:20Z]    * Tier: NA
+[2024-07-25T14:25:20Z]    * Regex: i)(?=.*ra)(?=.*sw).*
+[2024-07-25T14:25:20Z]    * Priority: 70
+[2024-07-25T14:25:20Z]    API DETAILS
+[2024-07-25T14:25:20Z]    * Value: 2082
+[2024-07-25T14:25:21Z]   --------------------------------------------------
+[2024-07-25T14:25:21Z]   Item: 3
+[2024-07-25T14:25:21Z]    RARITY DETAILS
+[2024-07-25T14:25:21Z]    * Rarity: Rare
+[2024-07-25T14:25:21Z]    * Color: 0x71FF3E
+[2024-07-25T14:25:21Z]    * XP: 495
+[2024-07-25T14:25:21Z]    OCR DETAILS
+[2024-07-25T14:25:21Z]    * Result: Rainbow Swirl
+[2024-07-25T14:25:21Z]    ITEM DETAILS
+[2024-07-25T14:25:21Z]    * Item: Rainbow Swirl
+[2024-07-25T14:25:21Z]    * Rarity: Rare
+[2024-07-25T14:25:21Z]    * Category: Misc
+[2024-07-25T14:25:21Z]    * Id: Rainbow Swirl
+[2024-07-25T14:25:21Z]    * Tier: NA
+[2024-07-25T14:25:21Z]    * Regex: i)(?=.*ra)(?=.*sw).*
+[2024-07-25T14:25:21Z]    * Priority: 70
+[2024-07-25T14:25:21Z]    API DETAILS
+[2024-07-25T14:25:21Z]    * Value: 2082
+[2024-07-25T14:25:36Z]   --------------------------------------------------
+[2024-07-25T14:25:36Z]   Item: 1
+[2024-07-25T14:25:36Z]    RARITY DETAILS
+[2024-07-25T14:25:36Z]    * Rarity: Divine
+[2024-07-25T14:25:36Z]    * Color: 0xFFE542
+[2024-07-25T14:25:36Z]    * XP: 4950
+[2024-07-25T14:25:36Z]    OCR DETAILS
+[2024-07-25T14:25:36Z]    * Result: Lucky Eggs Potion
+[2024-07-25T14:25:36Z]    ITEM DETAILS
+[2024-07-25T14:25:36Z]    * Item: Lucky Eggs Potion VII
+[2024-07-25T14:25:36Z]    * Rarity: Divine
+[2024-07-25T14:25:36Z]    * Category: Potion
+[2024-07-25T14:25:36Z]    * Id: Lucky
+[2024-07-25T14:25:36Z]    * Tier: 7
+[2024-07-25T14:25:36Z]    * Regex: i)(?=.*luc)(?=.*pot).*
+[2024-07-25T14:25:36Z]    * Priority: 35
+[2024-07-25T14:25:36Z]    API DETAILS
+[2024-07-25T14:25:36Z]    * Value: 1683
+[2024-07-25T14:25:37Z]   --------------------------------------------------
+[2024-07-25T14:25:37Z]   Item: 2
+[2024-07-25T14:25:37Z]    RARITY DETAILS
+[2024-07-25T14:25:37Z]    * Rarity: Basic
+[2024-07-25T14:25:37Z]    * Color: 0xA5A2BB
+[2024-07-25T14:25:37Z]    * XP: 200
+[2024-07-25T14:25:37Z]    OCR DETAILS
+[2024-07-25T14:25:37Z]    * Result: Old Boot
+[2024-07-25T14:25:37Z]    ITEM DETAILS
+[2024-07-25T14:25:37Z]    * Item: Old Boot
+[2024-07-25T14:25:37Z]    * Rarity: Basic
+[2024-07-25T14:25:37Z]    * Category: Misc
+[2024-07-25T14:25:37Z]    * Id: Old Boot
+[2024-07-25T14:25:37Z]    * Tier: NA
+[2024-07-25T14:25:37Z]    * Regex: i)(old|boo|oot)
+[2024-07-25T14:25:37Z]    * Priority: 71
+[2024-07-25T14:25:37Z]    API DETAILS
+[2024-07-25T14:25:37Z]    * Value: 2906
+[2024-07-25T14:25:37Z]   --------------------------------------------------
+[2024-07-25T14:25:37Z]   Item: 3
+[2024-07-25T14:25:37Z]    RARITY DETAILS
+[2024-07-25T14:25:37Z]    * Rarity: Basic
+[2024-07-25T14:25:37Z]    * Color: 0xA5A2BB
+[2024-07-25T14:25:37Z]    * XP: 200
+[2024-07-25T14:25:37Z]    OCR DETAILS
+[2024-07-25T14:25:37Z]    * Result: Old Boot
+[2024-07-25T14:25:38Z]    ITEM DETAILS
+[2024-07-25T14:25:38Z]    * Item: Old Boot
+[2024-07-25T14:25:38Z]    * Rarity: Basic
+[2024-07-25T14:25:38Z]    * Category: Misc
+[2024-07-25T14:25:38Z]    * Id: Old Boot
+[2024-07-25T14:25:38Z]    * Tier: NA
+[2024-07-25T14:25:38Z]    * Regex: i)(old|boo|oot)
+[2024-07-25T14:25:38Z]    * Priority: 71
+[2024-07-25T14:25:38Z]    API DETAILS
+[2024-07-25T14:25:38Z]    * Value: 2906
+[2024-07-25T14:25:48Z]   --------------------------------------------------
+[2024-07-25T14:25:48Z]   Item: 1
+[2024-07-25T14:25:48Z]    RARITY DETAILS
+[2024-07-25T14:25:48Z]    * Rarity: Legendary
+[2024-07-25T14:25:48Z]    * Color: 0xFF8B26
+[2024-07-25T14:25:48Z]    * XP: 1485
+[2024-07-25T14:25:48Z]    OCR DETAILS
+[2024-07-25T14:25:48Z]    * Result: Large Gift Bag
+[2024-07-25T14:25:48Z]    ITEM DETAILS
+[2024-07-25T14:25:48Z]    * Item: Large Gift Bag
+[2024-07-25T14:25:48Z]    * Rarity: Legendary
+[2024-07-25T14:25:48Z]    * Category: Misc
+[2024-07-25T14:25:48Z]    * Id: Large Gift Bag
+[2024-07-25T14:25:48Z]    * Tier: NA
+[2024-07-25T14:25:48Z]    * Regex: i)(?=.*lar)(?!=.*tap).*
+[2024-07-25T14:25:48Z]    * Priority: 16
+[2024-07-25T14:25:48Z]    API DETAILS
+[2024-07-25T14:25:48Z]    * Value: 11416
+[2024-07-25T14:25:49Z]   --------------------------------------------------
+[2024-07-25T14:25:49Z]   Item: 2
+[2024-07-25T14:25:49Z]    RARITY DETAILS
+[2024-07-25T14:25:49Z]    * Rarity: Rare
+[2024-07-25T14:25:49Z]    * Color: 0x71FF3E
+[2024-07-25T14:25:49Z]    * XP: 495
+[2024-07-25T14:25:49Z]    OCR DETAILS
+[2024-07-25T14:25:49Z]    * Result: Rainbow Swirl
+[2024-07-25T14:25:49Z]    ITEM DETAILS
+[2024-07-25T14:25:49Z]    * Item: Rainbow Swirl
+[2024-07-25T14:25:49Z]    * Rarity: Rare
+[2024-07-25T14:25:49Z]    * Category: Misc
+[2024-07-25T14:25:49Z]    * Id: Rainbow Swirl
+[2024-07-25T14:25:49Z]    * Tier: NA
+[2024-07-25T14:25:49Z]    * Regex: i)(?=.*ra)(?=.*sw).*
+[2024-07-25T14:25:49Z]    * Priority: 70
+[2024-07-25T14:25:49Z]    API DETAILS
+[2024-07-25T14:25:49Z]    * Value: 2082
+[2024-07-25T14:25:50Z]   --------------------------------------------------
+[2024-07-25T14:25:50Z]   Item: 3
+[2024-07-25T14:25:50Z]    RARITY DETAILS
+[2024-07-25T14:25:50Z]    * Rarity: Superior
+[2024-07-25T14:25:50Z]    * Color: 0xC0EDED
+[2024-07-25T14:25:50Z]    * XP: 7260
+[2024-07-25T14:25:50Z]    OCR DETAILS
+[2024-07-25T14:25:50Z]    * Result: Treasure Hunter Potion VIII
+[2024-07-25T14:25:50Z]    ITEM DETAILS
+[2024-07-25T14:25:50Z]    * Item: Treasure Hunter Potion VIII
+[2024-07-25T14:25:50Z]    * Rarity: Superior
+[2024-07-25T14:25:50Z]    * Category: Potion
+[2024-07-25T14:25:50Z]    * Id: Treasure Hunter
+[2024-07-25T14:25:50Z]    * Tier: 8
+[2024-07-25T14:25:50Z]    * Regex: i)(?=.*tre)(?=.*pot).*
+[2024-07-25T14:25:50Z]    * Priority: 17
+[2024-07-25T14:25:50Z]    API DETAILS
+[2024-07-25T14:25:50Z]    * Value: 9573
+[2024-07-25T14:26:06Z]   --------------------------------------------------
+[2024-07-25T14:26:06Z]   Item: 1
+[2024-07-25T14:26:06Z]    RARITY DETAILS
+[2024-07-25T14:26:06Z]    * Rarity: Rare
+[2024-07-25T14:26:06Z]    * Color: 0x71FF3E
+[2024-07-25T14:26:06Z]    * XP: 495
+[2024-07-25T14:26:06Z]    OCR DETAILS
+[2024-07-25T14:26:06Z]    * Result: Rainbow Swirl
+[2024-07-25T14:26:06Z]    ITEM DETAILS
+[2024-07-25T14:26:06Z]    * Item: Rainbow Swirl
+[2024-07-25T14:26:06Z]    * Rarity: Rare
+[2024-07-25T14:26:06Z]    * Category: Misc
+[2024-07-25T14:26:06Z]    * Id: Rainbow Swirl
+[2024-07-25T14:26:06Z]    * Tier: NA
+[2024-07-25T14:26:06Z]    * Regex: i)(?=.*ra)(?=.*sw).*
+[2024-07-25T14:26:06Z]    * Priority: 70
+[2024-07-25T14:26:06Z]    API DETAILS
+[2024-07-25T14:26:06Z]    * Value: 2082
+[2024-07-25T14:26:07Z]   --------------------------------------------------
+[2024-07-25T14:26:07Z]   Item: 2
+[2024-07-25T14:26:07Z]    RARITY DETAILS
+[2024-07-25T14:26:07Z]    * Rarity: Rare
+[2024-07-25T14:26:07Z]    * Color: 0x71FF3E
+[2024-07-25T14:26:07Z]    * XP: 495
+[2024-07-25T14:26:07Z]    OCR DETAILS
+[2024-07-25T14:26:07Z]    * Result: Rainbow Swirl
+[2024-07-25T14:26:07Z]    ITEM DETAILS
+[2024-07-25T14:26:07Z]    * Item: Rainbow Swirl
+[2024-07-25T14:26:07Z]    * Rarity: Rare
+[2024-07-25T14:26:07Z]    * Category: Misc
+[2024-07-25T14:26:07Z]    * Id: Rainbow Swirl
+[2024-07-25T14:26:07Z]    * Tier: NA
+[2024-07-25T14:26:07Z]    * Regex: i)(?=.*ra)(?=.*sw).*
+[2024-07-25T14:26:07Z]    * Priority: 70
+[2024-07-25T14:26:07Z]    API DETAILS
+[2024-07-25T14:26:07Z]    * Value: 2082
+[2024-07-25T14:26:08Z]   --------------------------------------------------
+[2024-07-25T14:26:08Z]   Item: 3
+[2024-07-25T14:26:08Z]    RARITY DETAILS
+[2024-07-25T14:26:08Z]    * Rarity: Rare
+[2024-07-25T14:26:08Z]    * Color: 0x71FF3E
+[2024-07-25T14:26:08Z]    * XP: 495
+[2024-07-25T14:26:08Z]    OCR DETAILS
+[2024-07-25T14:26:08Z]    * Result: Rainbow Swirl
+[2024-07-25T14:26:08Z]    ITEM DETAILS
+[2024-07-25T14:26:08Z]    * Item: Rainbow Swirl
+[2024-07-25T14:26:08Z]    * Rarity: Rare
+[2024-07-25T14:26:08Z]    * Category: Misc
+[2024-07-25T14:26:08Z]    * Id: Rainbow Swirl
+[2024-07-25T14:26:08Z]    * Tier: NA
+[2024-07-25T14:26:08Z]    * Regex: i)(?=.*ra)(?=.*sw).*
+[2024-07-25T14:26:08Z]    * Priority: 70
+[2024-07-25T14:26:08Z]    API DETAILS
+[2024-07-25T14:26:08Z]    * Value: 2082

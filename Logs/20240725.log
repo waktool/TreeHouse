@@ -1,0 +1,56 @@
+[2024-07-25T14:22:30Z]   --------------------------------------------------
+[2024-07-25T14:22:30Z]   Key 1 (Consumed: 0 | Not Consumed: 1 | Key RAP: 0)
+[2024-07-25T14:22:36Z]   1: Old Boot (Priority: 71 | XP: 200 | RAP: 2906)
+[2024-07-25T14:22:36Z]   2: Old Boot (Priority: 71 | XP: 200 | RAP: 2906)
+[2024-07-25T14:22:37Z]   3: Rainbow Swirl (Priority: 70 | XP: 495 | RAP: 2082)
+[2024-07-25T14:22:37Z]   Best: 3: Rainbow Swirl (Priority: 70 | XP: 495 | RAP: 2082)
+[2024-07-25T14:22:37Z]   Totals: Minimum RAP: 2082 | Balance: 2082 | Minimum XP: 495
+[2024-07-25T14:24:22Z]   --------------------------------------------------
+[2024-07-25T14:24:22Z]   Key 1 (Consumed: 1 | Not Consumed: 0 | Key RAP: 23636)
+[2024-07-25T14:24:28Z]   1: Rainbow Swirl (Priority: 70 | XP: 495 | RAP: 2082)
+[2024-07-25T14:24:28Z]   2: Old Boot (Priority: 71 | XP: 200 | RAP: 2906)
+[2024-07-25T14:24:29Z]   3: Old Boot (Priority: 71 | XP: 200 | RAP: 2906)
+[2024-07-25T14:24:29Z]   Best: 1: Rainbow Swirl (Priority: 70 | XP: 495 | RAP: 2082)
+[2024-07-25T14:24:29Z]   Totals: Minimum RAP: 2082 | Balance: -21554 | Minimum XP: 495
+[2024-07-25T14:24:37Z]   --------------------------------------------------
+[2024-07-25T14:24:37Z]   Key 2 (Consumed: 2 | Not Consumed: 0 | Key RAP: 47272)
+[2024-07-25T14:24:44Z]   1: Coins Potion VII (Priority: 53 | XP: 4950 | RAP: 1509)
+[2024-07-25T14:24:45Z]   2: Old Boot (Priority: 71 | XP: 200 | RAP: 2906)
+[2024-07-25T14:24:46Z]   3: Damage Potion VII (Priority: 55 | XP: 4950 | RAP: 703)
+[2024-07-25T14:24:46Z]   Best: 1: Coins Potion VII (Priority: 53 | XP: 4950 | RAP: 1509)
+[2024-07-25T14:24:46Z]   Totals: Minimum RAP: 3591 | Balance: -43681 | Minimum XP: 5445
+[2024-07-25T14:24:54Z]   --------------------------------------------------
+[2024-07-25T14:24:54Z]   Key 3 (Consumed: 3 | Not Consumed: 0 | Key RAP: 70908)
+[2024-07-25T14:25:02Z]   1: Treasure Hunter Potion VIII (Priority: 17 | XP: 7260 | RAP: 9573)
+[2024-07-25T14:25:02Z]   2: Rainbow Swirl (Priority: 70 | XP: 495 | RAP: 2082)
+[2024-07-25T14:25:03Z]   3: Crystal Key (Priority: 19 | XP: 1485 | RAP: 8354)
+[2024-07-25T14:25:04Z]   Best: 1: Treasure Hunter Potion VIII (Priority: 17 | XP: 7260 | RAP: 9573)
+[2024-07-25T14:25:04Z]   Totals: Minimum RAP: 13164 | Balance: -57744 | Minimum XP: 12705
+[2024-07-25T14:25:11Z]   --------------------------------------------------
+[2024-07-25T14:25:11Z]   Key 4 (Consumed: 4 | Not Consumed: 0 | Key RAP: 94544)
+[2024-07-25T14:25:19Z]   1: Rainbow Swirl (Priority: 70 | XP: 495 | RAP: 2082)
+[2024-07-25T14:25:20Z]   2: Rainbow Swirl (Priority: 70 | XP: 495 | RAP: 2082)
+[2024-07-25T14:25:21Z]   3: Rainbow Swirl (Priority: 70 | XP: 495 | RAP: 2082)
+[2024-07-25T14:25:21Z]   Best: 1: Rainbow Swirl (Priority: 70 | XP: 495 | RAP: 2082)
+[2024-07-25T14:25:21Z]   Totals: Minimum RAP: 15246 | Balance: -79298 | Minimum XP: 13200
+[2024-07-25T14:25:29Z]   --------------------------------------------------
+[2024-07-25T14:25:29Z]   Key 5 (Consumed: 5 | Not Consumed: 0 | Key RAP: 118180)
+[2024-07-25T14:25:36Z]   1: Lucky Eggs Potion VII (Priority: 35 | XP: 4950 | RAP: 1683)
+[2024-07-25T14:25:37Z]   2: Old Boot (Priority: 71 | XP: 200 | RAP: 2906)
+[2024-07-25T14:25:38Z]   3: Old Boot (Priority: 71 | XP: 200 | RAP: 2906)
+[2024-07-25T14:25:38Z]   Best: 1: Lucky Eggs Potion VII (Priority: 35 | XP: 4950 | RAP: 1683)
+[2024-07-25T14:25:38Z]   Totals: Minimum RAP: 16929 | Balance: -101251 | Minimum XP: 18150
+[2024-07-25T14:25:43Z]   --------------------------------------------------
+[2024-07-25T14:25:43Z]   Key 6 (Consumed: 5 | Not Consumed: 1 | Key RAP: 118180)
+[2024-07-25T14:25:48Z]   1: Large Gift Bag (Priority: 16 | XP: 1485 | RAP: 11416)
+[2024-07-25T14:25:49Z]   2: Rainbow Swirl (Priority: 70 | XP: 495 | RAP: 2082)
+[2024-07-25T14:25:50Z]   3: Treasure Hunter Potion VIII (Priority: 17 | XP: 7260 | RAP: 9573)
+[2024-07-25T14:25:51Z]   Best: 1: Large Gift Bag (Priority: 16 | XP: 1485 | RAP: 11416)
+[2024-07-25T14:25:51Z]   Totals: Minimum RAP: 28345 | Balance: -89835 | Minimum XP: 19635
+[2024-07-25T14:25:58Z]   --------------------------------------------------
+[2024-07-25T14:25:58Z]   Key 7 (Consumed: 6 | Not Consumed: 1 | Key RAP: 141816)
+[2024-07-25T14:26:06Z]   1: Rainbow Swirl (Priority: 70 | XP: 495 | RAP: 2082)
+[2024-07-25T14:26:07Z]   2: Rainbow Swirl (Priority: 70 | XP: 495 | RAP: 2082)
+[2024-07-25T14:26:08Z]   3: Rainbow Swirl (Priority: 70 | XP: 495 | RAP: 2082)
+[2024-07-25T14:26:08Z]   Best: 1: Rainbow Swirl (Priority: 70 | XP: 495 | RAP: 2082)
+[2024-07-25T14:26:08Z]   Totals: Minimum RAP: 30427 | Balance: -111389 | Minimum XP: 20130
